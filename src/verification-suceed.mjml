@@ -1,0 +1,61 @@
+<mjml>
+    <mj-head>
+        <mj-preview>Ваш аккаунт верифицирован</mj-preview>
+        <mj-attributes>
+            <mj-include path="includes/_styles.mjml" />
+        </mj-attributes>
+        <mj-include path="includes/_fonts.mjml" />
+    </mj-head>
+    <mj-body>
+        <mj-wrapper full-width="full-width" background-color="#f9f9f9">
+            <mj-section padding-bottom="145px">
+                <mj-column>
+                    <mj-image src="https://786505.selcdn.ru/app_files/procollab_logo.svg" width="290px"></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-wrapper full-width="80%" background-color="#fff" border-radius="40px" padding="65px">
+                <mj-section>
+                    <mj-column>
+                        <mj-text mj-class="title">
+                            Поздравляем, твой аккаунт подтвержден! 🥳
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+                <mj-section>
+                    <mj-column>
+                        <mj-text mj-class="text">
+                            Теперь тебе доступны все возможности платформы. Ты можешь:
+                        </mj-text>
+                        <mj-list mj-class="text">
+                            <mj-li mj-class="text">
+                                Создавать и вступать в существующие проекты
+                            </mj-li>
+                            <mj-li mj-class="text">
+                                Находить сокомандников
+                            </mj-li>
+                            <mj-li mj-class="text">
+                                Общаться со всему участниками
+                            </mj-li>
+                        </mj-list>
+                        <mj-text mj-class="text">
+                            и многое другое!
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+                <mj-section>
+                    <mj-column padding="0">
+                        <mj-button href="#" width="420px" mj-class="button">В профиль</mj-button>
+                    </mj-column>
+                </mj-section>
+                <mj-section>
+                    <mj-column>
+                        <mj-text mj-class="text">
+                            Нужна помощь?
+                            <a href="https://t.me/Petr_Ptushkin" target="_blank" style="color: #6C27FF;text-decoration: underline">Свяжись с командой поддержки.</a>
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+            </mj-wrapper>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

@@ -4,12 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gulp dev",
+    "build": "gulp build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mjml": "^4.14.1"
+    "mjml": "^4.14.1",
+    "mjml-bullet-list": "^1.2.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-mjml": "^4.0.2"
   }
 }
