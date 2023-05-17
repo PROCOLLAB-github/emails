@@ -44,7 +44,7 @@
                 </mj-section>
                 <mj-section>
                     <mj-column padding="0">
-                        <mj-button href="#" width="420px" mj-class="button">В профиль</mj-button>
+                        <mj-button href="https://app.procollab.ru/office" width="420px" mj-class="button">В профиль</mj-button>
                     </mj-column>
                 </mj-section>
                 <mj-section>
