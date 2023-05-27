@@ -4,57 +4,57 @@
         font-style: normal;
         font-weight: 900;
         src: local(""),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Black.eot?#iefix") format("embedded-opentype"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Black.woff2") format("woff2"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Black.woff") format("woff"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Black.ttf") format("truetype");
+        url("https://app.procollab/assets/font/Mont-Black.eot?#iefix") format("embedded-opentype"),
+        url("https://app.procollab/assets/font/Mont-Black.woff2") format("woff2"),
+        url("https://app.procollab/assets/font/Mont-Black.woff") format("woff"),
+        url("https://app.procollab/assets/font/Mont-Black.ttf") format("truetype");
     }
 
     @font-face {
         font-family: Mont;
         font-style: normal;
         font-weight: 800;
-        src: url("https://786505.selcdn.ru/app_files/fonts/Mont-Heavy.eot");
+        src: url("https://app.procollab/assets/font/Mont-Heavy.eot");
         src: local(""),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Heavy.eot?#iefix") format("embedded-opentype"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Heavy.woff2") format("woff2"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Heavy.woff") format("woff"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Heavy.ttf") format("truetype");
+        url("https://app.procollab/assets/font/Mont-Heavy.eot?#iefix") format("embedded-opentype"),
+        url("https://app.procollab/assets/font/Mont-Heavy.woff2") format("woff2"),
+        url("https://app.procollab/assets/font/Mont-Heavy.woff") format("woff"),
+        url("https://app.procollab/assets/font/Mont-Heavy.ttf") format("truetype");
     }
 
     @font-face {
         font-family: Mont;
         font-style: normal;
         font-weight: bold;
-        src: url("https://786505.selcdn.ru/app_files/fonts/Mont-Bold.eot");
+        src: url("https://app.procollab/assets/font/Mont-Bold.eot");
         src: local(""),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Bold.eot?#iefix") format("embedded-opentype"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Bold.woff2") format("woff2"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Bold.woff") format("woff"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Bold.ttf") format("truetype");
+        url("https://app.procollab/assets/font/Mont-Bold.eot?#iefix") format("embedded-opentype"),
+        url("https://app.procollab/assets/font/Mont-Bold.woff2") format("woff2"),
+        url("https://app.procollab/assets/font/Mont-Bold.woff") format("woff"),
+        url("https://app.procollab/assets/font/Mont-Bold.ttf") format("truetype");
     }
 
     @font-face {
         font-family: Mont;
         font-style: normal;
         font-weight: 600;
-        src: url("https://786505.selcdn.ru/app_files/fonts/Mont-SemiBold.eot");
+        src: url("https://app.procollab/assets/font/Mont-SemiBold.eot");
         src: local(""),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-SemiBold.eot?#iefix") format("embedded-opentype"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-SemiBold.woff2") format("woff2"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-SemiBold.woff") format("woff"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-SemiBold.ttf") format("truetype");
+        url("https://app.procollab/assets/font/Mont-SemiBold.eot?#iefix") format("embedded-opentype"),
+        url("https://app.procollab/assets/font/Mont-SemiBold.woff2") format("woff2"),
+        url("https://app.procollab/assets/font/Mont-SemiBold.woff") format("woff"),
+        url("https://app.procollab/assets/font/Mont-SemiBold.ttf") format("truetype");
     }
 
     @font-face {
         font-family: Mont;
         font-style: normal;
         font-weight: normal;
-        src: url("https://786505.selcdn.ru/app_files/fonts/Mont-Regular.eot");
+        src: url("https://app.procollab/assets/font/Mont-Regular.eot");
         src: local(""),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Regular.eot?#iefix") format("embedded-opentype"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Regular.woff2") format("woff2"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Regular.woff") format("woff"),
-        url("https://786505.selcdn.ru/app_files/fonts/Mont-Regular.ttf") format("truetype");
+        url("https://app.procollab/assets/font/Mont-Regular.eot?#iefix") format("embedded-opentype"),
+        url("https://app.procollab/assets/font/Mont-Regular.woff2") format("woff2"),
+        url("https://app.procollab/assets/font/Mont-Regular.woff") format("woff"),
+        url("https://app.procollab/assets/font/Mont-Regular.ttf") format("truetype");
     }
 </mj-style>
