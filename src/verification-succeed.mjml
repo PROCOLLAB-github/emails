@@ -9,7 +9,7 @@
         <mj-wrapper full-width="full-width" background-color="#f9f9f9">
             <mj-section padding-bottom="145px">
                 <mj-column>
-                    <mj-image src="https://app.procollab.ru/assets/images/shared/logo.svg" width="290px"></mj-image>
+                    <mj-image src="https://786505.selcdn.ru/app_files/procollab_logo.png" width="290px"></mj-image>
                 </mj-column>
             </mj-section>
             <mj-wrapper full-width="80%" background-color="#fff" border-radius="40px" padding="65px">
