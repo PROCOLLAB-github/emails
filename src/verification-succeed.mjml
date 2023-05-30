@@ -4,7 +4,6 @@
         <mj-attributes>
             <mj-include path="includes/_styles.mjml" />
         </mj-attributes>
-        <mj-include path="includes/_fonts.mjml" />
     </mj-head>
     <mj-body>
         <mj-wrapper full-width="full-width" background-color="#f9f9f9">
