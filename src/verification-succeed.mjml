@@ -7,7 +7,7 @@
     </mj-head>
     <mj-body>
         <mj-wrapper full-width="full-width" background-color="#f9f9f9">
-            <mj-section padding-bottom="145px">
+            <mj-section padding-bottom="90px">
                 <mj-column>
                     <mj-image src="https://786505.selcdn.ru/app_files/procollab_logo.png" width="290px"></mj-image>
                 </mj-column>
