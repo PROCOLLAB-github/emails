@@ -1,4 +1,4 @@
-<mj-class name="title" font-size="30px" font-weight="700" font-family="sans-serif"
+<mj-class name="title" font-size="30px" font-weight="700" font-family="sans-serif" line-height="150%"
           color="#332e2d"></mj-class>
 <mj-class name="text" font-size="20px" font-weight="400" padding="0" font-family="sans-serif" line-height="150%"
           color="#8c888a"></mj-class>
