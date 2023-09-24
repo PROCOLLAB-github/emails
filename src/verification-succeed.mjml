@@ -9,19 +9,19 @@
         <mj-wrapper full-width="full-width" background-color="#f9f9f9">
             <mj-section padding-bottom="90px">
                 <mj-column>
-                    <mj-image src="https://786505.selcdn.ru/app_files/procollab_logo.png" width="290px"></mj-image>
+                    <mj-image src="https://786505.selcdn.ru/app_files/procollab_logo.png" width="200px"></mj-image>
                 </mj-column>
             </mj-section>
-            <mj-wrapper full-width="80%" background-color="#fff" border-radius="40px" padding="65px">
-                <mj-section>
-                    <mj-column>
-                        <mj-text mj-class="title">
-                            Поздравляем, твой аккаунт подтвержден! 🥳
+            <mj-wrapper full-width="80%" background-color="#fff" border-radius="40px" padding="45px">
+                <mj-section padding-bottom="60px" padding="0">
+                    <mj-column padding="0">
+                        <mj-text mj-class="title" padding="0">
+                            Поздравляем, Ваш аккаунт подтвержден! 🥳
                         </mj-text>
                     </mj-column>
                 </mj-section>
-                <mj-section>
-                    <mj-column>
+                <mj-section padding="0" padding-bottom="80px">
+                    <mj-column padding="0">
                         <mj-text mj-class="text">
                             Теперь тебе доступны все возможности платформы. Ты можешь:
                         </mj-text>
@@ -41,16 +41,16 @@
                         </mj-text>
                     </mj-column>
                 </mj-section>
-                <mj-section>
+                <mj-section padding="0" padding-bottom="25px">
                     <mj-column padding="0">
-                        <mj-button href="https://app.procollab.ru/office" width="420px" mj-class="button">В профиль</mj-button>
+                        <mj-button padding="0" href="https://app.procollab.ru/office" width="420px" mj-class="button">В профиль</mj-button>
                     </mj-column>
                 </mj-section>
-                <mj-section>
-                    <mj-column>
-                        <mj-text mj-class="text">
+                <mj-section padding="0">
+                    <mj-column padding="0">
+                        <mj-text mj-class="text" padding="0" align="center">
                             Нужна помощь?
-                            <a href="https://t.me/Petr_Ptushkin" target="_blank" style="color: #6C27FF;text-decoration: underline">Свяжись с командой поддержки.</a>
+                            <a href="https://t.me/Petr_Ptushkin" target="_blank" style="display: block; color: #6C27FF;text-decoration: underline">Напишите нам</a>
                         </mj-text>
                     </mj-column>
                 </mj-section>
