@@ -1,5 +1,5 @@
-<mj-class name="title" font-size="36px" font-weight="700" font-family="sans-serif"
+<mj-class name="title" font-size="30px" font-weight="700" font-family="sans-serif" line-height="150%"
           color="#332e2d"></mj-class>
-<mj-class name="text" font-size="24px" font-weight="500" font-family="sans-serif"
+<mj-class name="text" font-size="20px" font-weight="400" padding="0" font-family="sans-serif" line-height="150%"
           color="#8c888a"></mj-class>
-<mj-class name="button" background-color="#6c27ff" color="#fff" font-family="sans-serif" font-size="26px" font-weight="700" border-radius="15px" inner-padding="20px 0px"></mj-class>
+<mj-class name="button" background-color="#6c27ff" color="#fff" font-family="sans-serif" font-size="20px" font-weight="700" border-radius="15px" inner-padding="17px 0px"></mj-class>
