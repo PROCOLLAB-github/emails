@@ -1,6 +1,6 @@
 <mjml>
     <mj-head>
-        <mj-preview>Ваш аккаунт верифицирован</mj-preview>
+        <mj-preview>{{ preview_text }}</mj-preview>
         <mj-attributes>
             <mj-include path="includes/_styles.mjml"/>
         </mj-attributes>
