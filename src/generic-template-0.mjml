@@ -29,7 +29,7 @@
                 </mj-section>
                 <mj-section padding="0" padding-bottom="25px">
                     <mj-column padding="0">
-                        <mj-button padding="0" href="{{ button_link }}" width="420px" mj-class="button">В
+                        <mj-button padding="0" href="{{ button_link }}" width="420px" mj-class="button">
                             {{ button_text }}
                         </mj-button>
                     </mj-column>
