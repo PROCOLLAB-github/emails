@@ -1,6 +1,6 @@
 <mjml>
     <mj-head>
-        <mj-preview>Ваш аккаунт верифицирован</mj-preview>
+        <mj-preview> Привет! 👋 </mj-preview>
         <mj-attributes>
             <mj-include path="includes/_styles.mjml"/>
         </mj-attributes>
@@ -30,8 +30,8 @@
                 </mj-section>
                 <mj-section padding="0" padding-bottom="25px">
                     <mj-column padding="0">
-                        <mj-button padding="0" href="https://app.procollab.ru/office" width="420px" mj-class="button">В
-                            профиль
+                        <mj-button padding="0" href="{{ url }}" width="420px" mj-class="button">
+                            Подтвердить
                         </mj-button>
                     </mj-column>
                 </mj-section>
