@@ -30,7 +30,7 @@
                 </mj-section>
                 <mj-section padding="0" padding-bottom="25px">
                     <mj-column padding="0">
-                        <mj-button padding="0" href="{{ url }}" width="420px" mj-class="button">
+                        <mj-button padding="0" href="{{ absolute_url }}" width="420px" mj-class="button">
                             Подтвердить
                         </mj-button>
                     </mj-column>
