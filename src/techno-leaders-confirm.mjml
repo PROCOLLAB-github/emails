@@ -1,0 +1,57 @@
+<mjml>
+    <mj-head>
+        <mj-preview>Привет! 👋</mj-preview>
+        <mj-attributes>
+            <mj-include path="includes/_styles.mjml"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="520;x">
+        <mj-wrapper full-width="full-width" background-color="#f9f9f9">
+            <mj-section padding-bottom="90px">
+                <mj-column>
+                    <mj-image src="https://786505.selcdn.ru/app_files/procollab_logo.png" width="200px"></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-wrapper background-color="#fff" border-radius="40px" padding="45px">
+                <mj-section padding-bottom="60px" padding="0">
+                    <mj-column padding="0">
+                        <mj-text mj-class="title" padding="0">
+                            Привет! 👋
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+                <mj-section padding="0" padding-bottom="80px">
+                    <mj-column padding="0">
+                        <mj-text mj-class="text">
+                            Вы подали заявку на участие в Акселераторе технологических проектов «Технолидеры Будущего».
+
+                            Для вас был автоматически создан личный профиль на платформе PROCOLLAB. Чтобы продолжить
+                            регистрацию, подтвердить почту и придумать пароль, пожалуйста, нажмите на кнопку ниже.
+
+                            Платформа PROCOLLAB является официальным партнером программы «Технолидеры Будущего».
+                            Конкурсный отбор и часть активностей в рамках программы Акселератора будет реализовано на
+                            платформе.
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+                <mj-section padding="0" padding-bottom="25px">
+                    <mj-column padding="0">
+                        <mj-button padding="0" href="{{ absolute_url }}" width="420px" mj-class="button">
+                            Подтвердить
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+                <mj-section padding="0">
+                    <mj-column padding="0">
+                        <mj-text mj-class="text" padding="0" align="center">
+                            Нужна помощь?
+                            <a href="https://t.me/Petr_Ptushkin" target="_blank"
+                               style="display: block; color: #6C27FF;text-decoration: underline">Напишите нам
+                            </a>
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+            </mj-wrapper>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
